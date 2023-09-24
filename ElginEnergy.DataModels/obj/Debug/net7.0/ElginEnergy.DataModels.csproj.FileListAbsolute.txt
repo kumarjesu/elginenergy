@@ -1,0 +1,11 @@
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\bin\Debug\net7.0\ElginEnergy.DataModels.deps.json
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\bin\Debug\net7.0\ElginEnergy.DataModels.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\bin\Debug\net7.0\ElginEnergy.DataModels.pdb
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\obj\Debug\net7.0\ElginEnergy.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\obj\Debug\net7.0\ElginEnergy.DataModels.AssemblyInfoInputs.cache
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\obj\Debug\net7.0\ElginEnergy.DataModels.AssemblyInfo.cs
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\obj\Debug\net7.0\ElginEnergy.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\obj\Debug\net7.0\ElginEnergy.DataModels.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\obj\Debug\net7.0\refint\ElginEnergy.DataModels.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\obj\Debug\net7.0\ElginEnergy.DataModels.pdb
+C:\Users\kamal\OneDrive\Desktop\.Net Course\ElginEnergy.Test\ElginEnergy.DataModels\obj\Debug\net7.0\ref\ElginEnergy.DataModels.dll

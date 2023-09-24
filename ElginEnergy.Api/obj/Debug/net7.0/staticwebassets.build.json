@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HO8eMcSeAt45sKFr+DyDcXrrjlFkx46SeZrLYOJ6TFI=",
+  "Source": "ElginEnergy.Api",
+  "BasePath": "_content/ElginEnergy.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ElginEnergy.UI/1.0.0": {
+        "dependencies": {
+          "ElginEnergy.DataModels": "1.0.0"
+        },
+        "runtime": {
+          "ElginEnergy.UI.dll": {}
+        }
+      },
+      "ElginEnergy.DataModels/1.0.0": {
+        "runtime": {
+          "ElginEnergy.DataModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElginEnergy.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElginEnergy.DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
